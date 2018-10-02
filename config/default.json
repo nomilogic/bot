@@ -1,6 +1,6 @@
 {
-    "appSecret": "8d26428201dabcf4164bf381f517db69",
-    "pageAccessToken": "EAAcNND3pDVgBAMpwgYvWcP1ESZA8zR4xwlfZAVobZB9rxJyWB28GRoAvS5IMNBMZCBhAomLDAH1SC4ujLdQr0Ae0ZBgZBGZBdbTjlNGV96byKAUPrMMBOQ4AJM6RmC1fZBo4CMZB27IWRU24YFlnSvuuX4MZCuzmysxKFZCRGZA1WvXgxQZDZD",
+    "appSecret": "f8951e992f746c55a5526a514a6cbfca",
+    "pageAccessToken": "EAAKsrJjS6PwBAJgtlZBE7vvfQMdQbcszWqq4KQL4ucflscgfqTvINZAuuMb28XyjjVx7JOUuoQEPQUt4qQBEr1eq4Lxc3XrYx3YF1aXYjGuzNodzUoYz5g5WHDGgK7gtPXE5aUNOvSr6FCSspnoQjznizLjhOVj4ZCo0rnBNQZDZD",
     "validationToken": "THIS_IS_MY_ECHO_TEST",
-    "serverURL": "bot.2cimple.com"
+    "serverURL": "https://botaqua.herokuapp.com/"
 }
